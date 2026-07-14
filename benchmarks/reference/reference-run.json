@@ -1,0 +1,14 @@
+{
+  "demos": 7,
+  "deterministic": true,
+  "elapsed_seconds": 2.2028,
+  "ground_truth_verified": true,
+  "iterations": 100,
+  "latency_pass_p50_ms": 21.6024,
+  "latency_pass_p95_ms": 23.6759,
+  "matched": 7,
+  "passed": 7,
+  "report_hash": "999303fff1751fc186f39a776fb9781347b65c5f7a566bb7b0e2eb41c3b10832",
+  "source_revision": "reference",
+  "source_tree_state": "clean-checkout"
+}
