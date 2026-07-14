@@ -1,0 +1,9 @@
+{
+  "attestation-accept": true,
+  "attestation-reject-replay": true,
+  "attestation-reject-tampered": true,
+  "homomorphic-encrypted-sum": true,
+  "homomorphic-filtered-average": true,
+  "mpc-secure-average": true,
+  "sealed-computation": true
+}
