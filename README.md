@@ -29,11 +29,13 @@ Every demo is deterministic and checked against a plaintext reference, so the
 catalogue doubles as a correctness suite. It is a portfolio-grade prototype with
 demonstration keys — **never** for real data — and it says so loudly.
 
-## Running example
+## Dashboard Preview
 
-![confidential-compute-demo running locally](docs/screenshots/application.png)
+![Confidential computation demonstration overview](docs/screenshots/dashboard-overview.png)
 
-Results of the seven local confidential-computing demonstrations, including attestation and encrypted computation. [Commands and test results](docs/verification.md).
+![Sealed computation evidence returned by the local demonstration](docs/screenshots/verification-detail.png)
+
+Local cryptographic demonstrations and simulated attestation checks provided by the repository. The preview does not establish hardware enclave deployment.
 
 ## Measured evidence
 
